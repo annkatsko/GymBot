@@ -6,14 +6,14 @@ So the first step is to login into telegram with your user account and search an
 ask a few questions and then provide the required token.
 
 
-![](botfather1.png)
+![](venv/botfather1.png)
 
 
-![](botfather2.png)
+![](C:\Users\Vlad\Desktop\Python\GymBot\venv\botfather2.png)
 
 
 
 
 Once Token is got, you need to update it in config.py.
 
-`TG_BOT_TOKEN = 2423rd23-TOKEN-23rknvdv`
+`TG_BOT_TOKEN = 24243rd2353-TOKEN-23rknvdv`
