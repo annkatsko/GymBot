@@ -6,10 +6,10 @@ So the first step is to login into telegram with your user account and search an
 ask a few questions and then provide the required token.
 
 
-![](venv/botfather1.png)
+![](https://github.com/annkatsko/Gym_bot/blob/main/images/botfather1.png)
 
 
-![](C:\Users\Vlad\Desktop\Python\GymBot\venv\botfather2.png)
+![](https://github.com/annkatsko/Gym_bot/blob/main/images/botfather2.png)
 
 
 
